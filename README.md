@@ -1,4 +1,3 @@
-# arm-control
-I created the interface basics with html  and modified the colors and fonts with css, then the rule was created with XAMPP and then linked to the page I created using PHP .
+# arm-control 
+The control interface was created using HTML, CSS. After creating the database using XAMMP, the interface was linked with the database through PHP codes so that the data was sent from range sliders to the database for storage. As shown in the attachments.
 
-Some notes are written on the same code's pages.
